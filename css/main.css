@@ -266,6 +266,7 @@ input:-webkit-autofill{
 }
 .activities-block{
     max-width: 1400px;
+    margin: auto;
     background-color: #f6f6f6;
     height: 412px;
     padding-left: 51px;
